@@ -33,6 +33,8 @@ console.log('test js')
 - git branch -M main
 - git push -u origin main
 
+--
+
 - cd ..
 - cd test-1/
 - git init
@@ -42,6 +44,7 @@ console.log('test js')
 - git checkout -b test-1
 - git push origin test-1
 
+--
 
 - cd ..
 - cd test-2/
